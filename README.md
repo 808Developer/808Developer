@@ -4,14 +4,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/808developer/808developer/main/assets/i808developer.ico" alt="" width="720"/>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="22"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/WCAG_2.2-0052CC?style=flat&logo=w3c&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" height="22"/>
-</p>
 
 ---
 
