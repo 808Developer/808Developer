@@ -1,8 +1,61 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/808developer/808developer/main/assets/i808developer.ico" alt="808Developer · Robert Caudle - Software Engineer" width="880"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/808developer/808developer/main/assets/i808developer.ico" alt="" width="720"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="22"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/WCAG_2.2-0052CC?style=flat&logo=w3c&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" height="22"/>
+</p>
+
+---
+
+## What I work on currently
+
+Dependency-Free Software that works both online/offline without hidden limitations
+
+## Stack
+
+HTML
+CSS
+JS
+Java
+SQL
+Python
+
+
+### [808developer.github.io](https://github.com/808developer/808developer.github.io)
+
+
+## 📊 Activity
+
+
+<p align="center">
+  <img height="160" src="https://gh-profile-stats.zli39uclan.workers.dev/stats?username=808developer&accent=61dafb&cell=circle&hide_border=true"/>
+  <img height="160" src="https://gh-profile-stats.zli39uclan.workers.dev/top-langs?username=808developer&accent=61dafb&cell=circle&hide_border=true"/>
+</p>
+<p align="center">
+  <img width="720" src="https://gh-profile-stats.zli39uclan.workers.dev/activity?username=808developer&accent=61dafb&cell=circle&hide_border=true"/>
+</p>
+
+
+## Contact
 
 - 📫 How to reach me:
 - i808Developer@outlook.com
 
-<!---
-808Developer/808Developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+United States · UTC+8 · [github.com/808developer](https://github.com/808developer)
+
+
+
+
+
+
+
