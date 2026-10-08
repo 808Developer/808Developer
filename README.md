@@ -1,6 +1,9 @@
 <p align="center">
 808developer - Robert Caudle - Software Engineer
 </p>
+<p align="center">
+  <img src="https://808developer.github.io/assets/i808developer.png" alt="i808developer icon logo" width="128" />
+</p>
 
 ---
 
