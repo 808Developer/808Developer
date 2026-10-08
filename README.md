@@ -8,16 +8,6 @@
 
 Dependency-Free Software that works both online/offline
 
-## Stack
-
-HTML
-CSS
-JS
-Java
-SQL
-Python
-
-
 ### [808developer.github.io](https://808developer.github.io)
 
 
@@ -36,7 +26,7 @@ Python
 ## Contact
 
 - 📫 How to reach me:
-### [i808Developer](mailto:i808developer@outlook.com)
+- ### [i808Developer](mailto:i808developer@outlook.com)
 
 ---
 
