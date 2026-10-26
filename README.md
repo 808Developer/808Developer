@@ -1,5 +1,5 @@
 <p align="center">
-808developer - Robert Caudle - Software Engineer
+808developer
 </p>
 <p align="center">
   <img src="https://808developer.github.io/assets/i808developer.png" alt="i808developer icon logo" width="128" />
@@ -12,19 +12,6 @@
 Dependency-Free Software that works both online/offline
 
 ### [808developer.github.io](https://808developer.github.io)
-
-
-## 📊 Activity
-
-
-<p align="center">
-  <img height="160" src="https://gh-profile-stats.zli39uclan.workers.dev/stats?username=808developer&accent=61dafb&cell=circle&hide_border=true"/>
-  <img height="160" src="https://gh-profile-stats.zli39uclan.workers.dev/top-langs?username=808developer&accent=61dafb&cell=circle&hide_border=true"/>
-</p>
-<p align="center">
-  <img width="720" src="https://gh-profile-stats.zli39uclan.workers.dev/activity?username=808developer&accent=61dafb&cell=circle&hide_border=true"/>
-</p>
-
 
 ## Contact
 
