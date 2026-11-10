@@ -10,7 +10,7 @@
 ### [i808developerPortfolio](https://808developer.github.io/xodbox/Portfolio)
 
 
-## What I work on currently
+## What I work on
 
 Dependency-Free Software that works both online/offline
 
